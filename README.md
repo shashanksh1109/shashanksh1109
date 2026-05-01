@@ -1,10 +1,6 @@
 <div align="center">
 
-# Shashank Sakrappa Hakari
-
-### 🔩 Embedded Software Engineer
-
-**M.S. Software Engineering Systems · Northeastern University · GPA 3.89 · Boston, MA**
+![banner](https://raw.githubusercontent.com/shashanksh1109/shashanksh1109/main/banner.svg)
 
 <br/>
 
