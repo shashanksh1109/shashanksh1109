@@ -1,21 +1,21 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:050810,50:081428,100:0a1628&height=220&section=header&text=Shashank%20Sakrappa%20Hakari&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Software%20Engineer&descSize=17&descAlignY=58&descColor=00d4ff&animation=fadeIn)
+# Shashank Sakrappa Hakari
+
+### 🔩 Embedded Software Engineer
+
+**M.S. Software Engineering Systems · Northeastern University · GPA 3.89 · Boston, MA**
 
 <br/>
 
-![Status](https://img.shields.io/badge/🚀%20Open%20to%20Full--Time%202026-00d4ff?style=for-the-badge&logoColor=white)
+![Status](https://img.shields.io/badge/🚀%20Open%20to%20Full--Time%202026-00d4ff?style=for-the-badge)
 ![Visa](https://img.shields.io/badge/📋%20H1B%20Sponsorship%20Required-orange?style=for-the-badge)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-shashanksh1109.github.io-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://shashanksh1109.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-shashanksh1109.github.io-161b22?style=for-the-badge&logo=github&logoColor=white)](https://shashanksh1109.github.io)
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-s-h-651970349/)
 [![Email](https://img.shields.io/badge/📧%20Email-sh.s@northeastern.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh.s@northeastern.edu)
-
-<br/>
-
-*M.S. Software Engineering Systems · Northeastern University · GPA 3.89 · Boston, MA*
 
 </div>
 
@@ -126,10 +126,6 @@ That embedded-first mindset carries into everything I build — IoT gateways, ba
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:081428,100:050810&height=100&section=footer)
-
 <div align="center">
-
-*Embedded systems first &nbsp;·&nbsp; IoT · backend · cloud when needed &nbsp;·&nbsp; Summer/Fall 2026*
-
+<sub><i>Embedded systems first &nbsp;·&nbsp; IoT · backend · cloud when needed &nbsp;·&nbsp; Summer/Fall 2026</i></sub>
 </div>
