@@ -105,7 +105,7 @@ That embedded-first mindset carries into everything I build — IoT gateways, ba
 | | Role | Company | Period |
 |:---:|:---|:---|:---|
 | ✈️ | Embedded Software Engineer | Ducom Aerospace | Aug 2023 – Jun 2024 |
-| 💻 | Backend Software Engineer (Co-op) | Street Care | Jan 2024 – Aug 2024 |
+| 💻 | Backend Software Engineer (Co-op) | Street Care | Jan 2026 – Apr 2026 |
 | 🎓 | Embedded Software Trainee | Emertxe Information Technologies | Aug 2022 – May 2023 |
 
 ---
