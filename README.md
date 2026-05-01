@@ -1,17 +1,21 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/shashanksh1109/shashanksh1109/main/banner.png)
+# Shashank Sakrappa Hakari
+
+### 🔩 Embedded Software Engineer
+
+**M.S. Software Engineering Systems · Northeastern University · GPA 3.89 · Boston, MA**
 
 <br/>
 
-![Status](https://img.shields.io/badge/🚀%20Open%20to%20Full--Time%202026-00d4ff?style=for-the-badge)
-![Visa](https://img.shields.io/badge/📋%20H1B%20Sponsorship%20Required-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Open%20to%20Full--Time%202026-00d4ff?style=for-the-badge)
+![Visa](https://img.shields.io/badge/H1B%20Sponsorship%20Required-orange?style=for-the-badge)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-shashanksh1109.github.io-161b22?style=for-the-badge&logo=github&logoColor=white)](https://shashanksh1109.github.io)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-s-h-651970349/)
-[![Email](https://img.shields.io/badge/📧%20Email-sh.s@northeastern.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh.s@northeastern.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shashanksh1109.github.io-161b22?style=for-the-badge&logo=github&logoColor=white)](https://shashanksh1109.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-s-h-651970349/)
+[![Email](https://img.shields.io/badge/Email-sh.s%40northeastern.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh.s@northeastern.edu)
 
 </div>
 
@@ -107,18 +111,6 @@ That embedded-first mindset carries into everything I build — IoT gateways, ba
 | ✈️ | Embedded Software Engineer | Ducom Aerospace | Aug 2023 – Jun 2024 |
 | 💻 | Backend Software Engineer (Co-op) | Street Care | Jan 2024 – Aug 2024 |
 | 🎓 | Embedded Software Trainee | Emertxe Information Technologies | Aug 2022 – May 2023 |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashanksh1109&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892a4)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksh1109&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8892a4)
-
-</div>
 
 ---
 
